@@ -1,7 +1,10 @@
-# Final Project
+# Simple Interest Calculator
 
-This repository contains my final project for Git and GitHub.
+This repository contains a **Bash script** that calculates **simple interest** based on user input.
 
-## Project Details
-- Course: Introduction to Git and GitHub
-- Includes license, code of conduct, contributing guidelines, and a bash script.
+## Purpose
+
+The purpose of this project is to demonstrate the use of **Git, GitHub, and Bash scripting** by creating a simple interest calculator that:
+
+- Accepts **Principal**, **Rate of Interest**, and **Time Period** from the user  
+- Calculates **Simple Interest** using the formula:
